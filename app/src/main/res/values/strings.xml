@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Simply Recipes</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="already_had_an_account">Already had an account?</string>
+
+
+    <string name="home">Home</string>
+    <string name="pantry">Pantry</string>
+    <string name="favorite">Favorite</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="recipe_of_the_week">Recipe of the week</string>
+    <string name="latest_recipes">Latest Recipes</string>
+    <string name="pop_recipes">Popular Recipes</string>
+    <string name="asian_recipes">Asian Recipes</string>
+    <string name="western_recipes">Western Recipes</string>
+    <string name="mediterranean_recipes">Mediterranean Recipes</string>
+
+    <string name="ingredients">INGREDIENTS:</string>
+    <string name="see_recipes">SEE RECIPES</string>
+    <string name="trash">Trash</string>
+    <string name="recipe">Recipe</string>
+
+    <string name="cooking_time">Cooking Time</string>
+    <string name="rating">Rating</string>
+    <string name="meal_type">Meal Type</string>
+    <string name="cuisine">Cuisine</string>
+    <string name="apply">Apply</string>
+
+</resources>
